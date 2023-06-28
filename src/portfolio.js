@@ -192,7 +192,7 @@ const workExperiences = {
       role: "Frontend Web Developer",
       company: "Tiftin",
       companylogo: require("./assets/images/tiftin.png"),
-      date: "June 2018 – Present",
+      date: "Oct 2021 – Dec 2021",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
