@@ -193,25 +193,30 @@ const workExperiences = {
       company: "Tiftin",
       companylogo: require("./assets/images/tiftin.png"),
       date: "Oct 2021 – Dec 2021",
-      desc: "Worked at this startup as one of the founding frontend developer.",
+      // desc: "Worked at this startup as one of the founding frontend developer.",
       descBullets: [
         "Made the complete tiffin delivery website’s frontend using Nextjs, ReactJs, Tailwind CSS and Flowbite UI.",
         "Helped the team mates and mentored the interns"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
+      role: "Digital Marketing Head",
+      company: "Way2University",
+      companylogo: require("./assets/images/way2university-logo.png"),
+      date: "Apr 2022 – Jun 2022",
+      descBullets: [
+        "Leads Generation with google and meta Ads.",
+        "Creative content generation for SEO Optimization and Ads."
+      ]    },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Web Developer",
+      company: "EDC India",
+      companylogo: require("./assets/images/EDC_Logo.png"),
+      date: "Jul 2022 – Dec 2022",
+      descBullets: [
+        "Worked on MERN Tech Stack and Completed the various website development projects.",
+        "Developed WordPress Websites for different clients."
+      ]
     }
   ]
 };
@@ -267,31 +272,24 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Winner Of Oxygen Hackathon",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "Winner of Oxygen Hackathon, organized by AKTU, on which patent is also filed.",
+      image: require("./assets/images/aktu-logo.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "Validate",
+          url: "https://drive.google.com/file/d/1jZNXGvkdv9elcHRGuDr1W9xJZhS-EVZ2/view"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
+
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Finalist of Toycathon 2021",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/toycathon.jpeg"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
