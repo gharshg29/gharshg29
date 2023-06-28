@@ -193,10 +193,10 @@ const workExperiences = {
       company: "Tiftin",
       companylogo: require("./assets/images/tiftin.png"),
       date: "Oct 2021 – Dec 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Worked at this startup as one of the founding frontend developer.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Made the complete tiffin delivery website’s frontend using Nextjs, ReactJs, Tailwind CSS and Flowbite UI.",
+        "Helped the team mates and mentored the interns"
       ]
     },
     {
