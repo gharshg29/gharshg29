@@ -288,28 +288,28 @@ const achievementSection = {
     {
       title: "Finalist of Toycathon 2021",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+        "One of the Grand Finalist of the Toycathon (Hackathon of Toys) organized by Govt. of India",
       image: require("./assets/images/toycathon.jpeg"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "Toycathon 2021 Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Toycathon 2021",
+          url: ""
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Researcher Award",
+      subtitle: "Honored by the Director of ABES Engineering College by Researcher Award.",
+      image: require("./assets/images/abeslogo.jpeg"),
+      imageAlt: "ABES Logo",
       footerLink: [
         {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
+        // {
+        //   name: "Final Project",
+        //   url: "https://pakistan-olx-1.firebaseapp.com/"
+        // }
       ]
     }
   ],
